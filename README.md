@@ -1,3 +1,3 @@
 # Portfolio-Website
 
-[Portfolio Website](sungwoonpark.com)
+[Link to the Website](sungwoonpark.com)
