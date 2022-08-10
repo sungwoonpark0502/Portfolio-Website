@@ -1,0 +1,185 @@
+.sec3{
+  background-color: rgb(0, 0, 0);
+  width: 100%;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 600px){
+    .language{
+        font-size: 21px;
+        text-align: center;
+        position:relative;
+        top: 100px;
+        color: #ffffff;
+    }
+}
+@media screen and (max-width: 1199px){
+    @media screen and (min-width: 601px){
+        .language{
+            font-size: 25px;
+            text-align: center;
+            position:relative;
+            top: 110px;
+            color: #ffffff;
+        }
+    }
+}
+@media screen and (min-width: 1200px){
+    .language{
+        font-size: 28px;
+        text-align: center;
+        position:relative;
+        top: 110px;
+        color: #ffffff;
+    }
+}
+
+.logo-p{
+    padding-top: 15px;
+}
+
+@media screen and (max-width: 600px){
+    .sec3{
+        height: 100vh;
+    }
+    .display-java{
+        float: left;
+        width: 33.333%;
+        text-align: center;
+        padding-top: 170px;
+        color: #ffffff;
+    }
+    
+    .display-python{
+        float: left;
+        width: 33.333%;
+        text-align: center;
+        padding-top: 170px;
+        color: #ffffff;
+    }
+    .display-c{
+        float: left;
+        width: 33.333%;
+        text-align: center;
+        padding-top: 170px;
+        color: #ffffff;
+    }
+    .display-html{
+        float: left;
+        width: 33.333%;
+        text-align: center;
+        padding-top: 85px;
+        color: #ffffff;
+    }
+    .display-css{
+        float: left;
+        width: 33.333%;
+        text-align: center;
+        padding-top: 85px;
+        color: #ffffff;
+    }
+    .display-js{
+        float: left;
+        width: 33.333%;
+        text-align: center;
+        padding-top: 85px;
+        color: #ffffff;
+    }
+
+    .display-vs{
+        float: left;
+        width: 33.333%;
+        text-align: center;
+        padding-top: 85px;
+        color: #ffffff;
+    }
+
+    .display-git{
+        float: left;
+        width: 33.333%;
+        text-align: center;
+        padding-top: 86px;
+        color: #ffffff;
+    }
+    
+    .display-ecli{
+        float: left;
+        width: 33.333%;
+        text-align: center;
+        padding-top: 89px;
+        color: #ffffff;
+    }
+}
+
+@media screen and (min-width: 601px) {
+    .sec3{
+        height: 120vh;
+    }
+    .display-java{
+        float: left;
+        width: 33.333%;
+        text-align: center;
+        padding-top: 170px;
+        color: #f5f5f7;
+    }
+    
+    .display-python{
+        float: left;
+        width: 33.333%;
+        text-align: center;
+        padding-top: 170px;
+        color: #f5f5f7;
+    }
+    .display-c{
+        float: left;
+        width: 33.333%;
+        text-align: center;
+        padding-top: 170px;
+        color: #f5f5f7;
+    }
+    .display-html{
+        float: left;
+        width: 33.333%;
+        text-align: center;
+        padding-top: 95px;
+        color: #f5f5f7;
+    }
+    .display-css{
+        float: left;
+        width: 33.333%;
+        text-align: center;
+        padding-top: 95px;
+        color: #f5f5f7;
+    }
+    .display-js{
+        float: left;
+        width: 33.333%;
+        text-align: center;
+        padding-top: 95px;
+        color: #f5f5f7;
+    }
+
+    .display-vs{
+        float: left;
+        width: 33.333%;
+        text-align: center;
+        padding-top: 95px;
+        color: #f5f5f7;
+    }
+
+    .display-git{
+        float: left;
+        width: 33.333%;
+        text-align: center;
+        padding-top: 96px;
+        color: #f5f5f7;
+    }
+    
+    .display-ecli{
+        float: left;
+        width: 33.333%;
+        text-align: center;
+        padding-top: 99px;
+        color: #f5f5f7;
+    }
+  }
