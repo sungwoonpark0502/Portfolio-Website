@@ -4,12 +4,7 @@ html{
 body{
     font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
     margin: 0;
-    /* --page-height: 48px; */
 }
-/* .page--hidden{
-  transform: translateY(calc(-1 * var(--page-height)));
-  box-shadow: none;
-} */
 .sec1{
   background-color: rgb(0,0,0);
   width: 100%;
@@ -49,9 +44,6 @@ header {
   z-index: 10000;
   font-size: 15px;
 }
-/* .page{
-  transition: transform  .2s;
-} */
 
 main {
   padding: 70px 20px 0;
